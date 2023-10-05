@@ -1,0 +1,49 @@
+1656341313583	geckodriver	INFO	Listening on 127.0.0.1:59746
+1656341316639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\anton\\AppData\\Local\\Temp\\rust_mozprofilewN8X8O"
+1656341317089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anton\\AppData\\Local\\Temp\\rust_mozprofilewN8X8O\\search.json.mozlz4", (void 0)))
+1656341318498	Marionette	INFO	Listening on port 59754
+1656341318761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cookielaw.org/scripttemplates/6.26.0/otBannerSdk.js, line 19: TypeError: Bt(...).el[0] is undefined
+JavaScript error: http://web.archive.org/_static/js/wombat.js?v=UHAOicsW, line 21: n: Security issue: URL must use https
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+1656341374992	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220410095026js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+1656341459554	Marionette	INFO	Stopped listening on port 59754
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656341460805	geckodriver	INFO	Listening on 127.0.0.1:59881
+1656341463873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\anton\\AppData\\Local\\Temp\\rust_mozprofile1lvizn"
+1656341464261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anton\\AppData\\Local\\Temp\\rust_mozprofile1lvizn\\search.json.mozlz4", (void 0)))
+1656341465652	Marionette	INFO	Listening on port 59889
+1656341465929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1656341474652	Marionette	INFO	Stopped listening on port 59889
+1656341475495	geckodriver	INFO	Listening on 127.0.0.1:59950
+1656341478558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\anton\\AppData\\Local\\Temp\\rust_mozprofileucTViF"
+1656341478935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anton\\AppData\\Local\\Temp\\rust_mozprofileucTViF\\search.json.mozlz4", (void 0)))
+1656341480311	Marionette	INFO	Listening on port 59958
+1656341480611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://web.archive.org/_static/js/wombat.js?v=UHAOicsW, line 21: n: Security issue: URL must use https
+JavaScript error: http://web.archive.org/web/20220412100759js_/https://cdn.cnn.com/ads/cnn/cnn_homepage.json, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://web.archive.org/web/20220412103652/https://steadfastseat.com/v2svxFVJ-Mg82zHMJUHkQBWwVF721AsFf1Y3MomzEUqIMQlG6f2VaL6ctdsQc2VgA, line 13: Error: Request non-200 status
+1656341532371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656341557532	Marionette	INFO	Stopped listening on port 59958
